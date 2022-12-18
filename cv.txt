@@ -1,0 +1,7 @@
+Bhakti vaidya
+Pursuing Computer Engineering in Pimpri Chinchwad College of Engineering and research
+Current CGPA is 8.00
+Skills:C++,Web development
+Project:
+1)Drone Project
+2)SHARE-X:File sharing website
